@@ -244,6 +244,7 @@ main {
   min-height: 100vh;
   display: grid;
   place-items: center;
+  background-color: rgba(119, 240, 19, 0.479);
 }
 
 .git-icon {
